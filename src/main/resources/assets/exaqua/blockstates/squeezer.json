@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "squeezed=false": {"model":"exaqua:block/squeezer" },
+    "squeezed=true" : {"model": "exaqua:block/squeezer2"}
+  }
+}
